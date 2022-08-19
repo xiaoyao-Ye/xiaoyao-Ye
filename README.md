@@ -15,6 +15,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=000000&center=%E9%94%99%E8%AF%AF%E7%9A%84&vCenter=%E9%94%99%E8%AF%AF%E7%9A%84&multiline=true&width=300&height=90&lines=%E5%8F%AF%E4%BD%A0%E8%A6%81%E6%98%8E%E7%99%BD%E5%95%8A%E6%88%91%E7%9A%84%E6%9C%8B%E5%8F%8B%EF%BC%8C;%E6%88%91%E4%BB%AC%E4%B8%8D%E8%83%BD%E7%94%A8%E6%B8%A9%E6%9F%94%E5%8E%BB%E5%BA%94%E5%AF%B9%E9%BB%91%E6%9A%97%EF%BC%8C;%E8%A6%81%E7%94%A8%E7%81%AB%E3%80%82)](https://git.io/typing-svg)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaoyao-Ye)](https://github.com/xiaoyao-Ye/github-readme-stats)
+
 ![snake](./assets/github-contribution-grid-snake.svg)
 
 ![graph](https://activity-graph.herokuapp.com/graph?username=xiaoyao-Ye&theme=github)
