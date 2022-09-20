@@ -54,7 +54,7 @@
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaoyao-Ye)](https://github.com/xiaoyao-Ye/github-readme-stats) -->
 <div align="center">
-  <img width="49%" height="170px" src="https://activity-graph.herokuapp.com/graph?username=xiaoyao-Ye&theme=github" />
-  <img width="49%" height="170px" src="https://github-readme-stats.vercel.app/api?username=xiaoyao-Ye" />
+  <img width="380px" height="170px" src="https://activity-graph.herokuapp.com/graph?username=xiaoyao-Ye&theme=github" />
+  <img width="380px" height="170px" src="https://github-readme-stats.vercel.app/api?username=xiaoyao-Ye" />
 </div>
 
