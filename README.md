@@ -29,7 +29,7 @@
   </samp>
 </p>
 
-
+![badge](https://visitor-badge.glitch.me/badge?page_id=xiaoyao-Ye)
 
 <!--
 可你要明白啊我的朋友，
@@ -41,12 +41,20 @@
 <!-- 3D Chart -->
 <!-- ![3dChart](https://ssr-contributions-svg.vercel.app/_/xiaoyao-Ye?chart=3dbar&format=svg&weeks=40) -->
 
-![skill](https://readme.app.surmon.me/api/render?template_id=github-top-languages&props.username=xiaoyao-Ye)
+<!-- ![skill](https://readme.app.surmon.me/api/render?template_id=github-top-languages&props.username=xiaoyao-Ye) -->
+<div>
+  <img width="100%" src="https://readme.app.surmon.me/api/render?template_id=github-top-languages&props.username=xiaoyao-Ye" />
+</div>
 
-![graph](https://activity-graph.herokuapp.com/graph?username=xiaoyao-Ye&theme=github)
+<!-- ![graph](https://activity-graph.herokuapp.com/graph?username=xiaoyao-Ye&theme=github) -->
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xiaoyao-Ye&repo=ldapctl&show_owner=true&&theme=cobalt)](https://github.com/xiaoyao-Ye/wechat-ci) -->
 
 ![snake](./assets/github-contribution-grid-snake.svg)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaoyao-Ye)](https://github.com/xiaoyao-Ye/github-readme-stats)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaoyao-Ye)](https://github.com/xiaoyao-Ye/github-readme-stats) -->
+<div align="center">
+  <img width="49%" height="170px" src="https://activity-graph.herokuapp.com/graph?username=xiaoyao-Ye&theme=github" />
+  <img width="49%" height="170px" src="https://github-readme-stats.vercel.app/api?username=xiaoyao-Ye" />
+</div>
+
