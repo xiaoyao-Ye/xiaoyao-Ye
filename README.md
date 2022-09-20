@@ -29,6 +29,8 @@
   </samp>
 </p>
 
+
+
 <!--
 可你要明白啊我的朋友，
 我们不能用温柔去应对黑暗，
@@ -38,6 +40,8 @@
 
 <!-- 3D Chart -->
 <!-- ![3dChart](https://ssr-contributions-svg.vercel.app/_/xiaoyao-Ye?chart=3dbar&format=svg&weeks=40) -->
+
+![skill](https://readme.app.surmon.me/api/render?template_id=github-top-languages&props.username=xiaoyao-Ye)
 
 ![graph](https://activity-graph.herokuapp.com/graph?username=xiaoyao-Ye&theme=github)
 
