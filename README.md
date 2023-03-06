@@ -25,7 +25,7 @@
     <!-- <a href="https://chat.antfu.me">discord</a> . -->
     <!-- <a href="https://instagram.com/antfu7">instagram</a> . -->
     <!-- <a href="https://github.com/sponsors/antfu">sponsor</a> -->
-    <a href="https://xiaoyao-ye.github.io/plane-game/">plane-game</a>
+    <!-- <a href="https://xiaoyao-ye.github.io/plane-game/">plane-game</a> -->
   </samp>
 </p>
 
@@ -43,6 +43,6 @@
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xiaoyao-Ye&repo=ldapctl&show_owner=true&&theme=cobalt)](https://github.com/xiaoyao-Ye/wechat-ci) -->
 
-![snake](./assets/github-contribution-grid-snake.svg)
+<!-- ![snake](./assets/github-contribution-grid-snake.svg) -->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaoyao-Ye)](https://github.com/xiaoyao-Ye/github-readme-stats)
