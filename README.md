@@ -39,8 +39,8 @@
 <!-- 3D Chart -->
 <!-- ![3dChart](https://ssr-contributions-svg.vercel.app/_/xiaoyao-Ye?chart=3dbar&format=svg&weeks=40) -->
 
-<!-- ![graph](https://activity-graph.herokuapp.com/graph?username=xiaoyao-Ye&theme=github) -->
-![badge](https://visitor-badge.glitch.me/badge?page_id=xiaoyao-Ye.xiaoyao-Ye)
+![](https://activity-graph.herokuapp.com/graph?username=xiaoyao-Ye&theme=github)
+![](https://visitor-badge.glitch.me/badge?page_id=xiaoyao-Ye.xiaoyao-Ye)
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xiaoyao-Ye&repo=ldapctl&show_owner=true&&theme=cobalt)](https://github.com/xiaoyao-Ye/wechat-ci) -->
 
