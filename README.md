@@ -45,5 +45,5 @@
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xiaoyao-Ye&repo=ldapctl&show_owner=true&&theme=cobalt)](https://github.com/xiaoyao-Ye/wechat-ci) -->
 
 <!-- ![snake](./assets/github-contribution-grid-snake.svg) -->
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaoyao-Ye)](https://github.com/xiaoyao-Ye/github-readme-stats)
+<!-- ![](https://github-readme-stats.vercel.app/api?username=xiaoyao-Ye) -->
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaoyao-Ye)](https://github.com/xiaoyao-Ye/github-readme-stats) -->
