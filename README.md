@@ -17,6 +17,7 @@
   <samp>
     <!-- <a href="https://antfu.me">me</a> . -->
     <a href="https://xiaoyao-ye.github.io/blog/">blog</a> .
+    <a href="https://xiaoyao-ye.github.io/Game-2048/">Game-2048</a> .
     <!-- <a href="https://antfu.me/projects">projects</a> . -->
     <!-- <a href="https://antfu.me/talks">talks</a> . -->
     <!-- <a href="https://antfu.me/podcasts">podcasts</a> . -->
