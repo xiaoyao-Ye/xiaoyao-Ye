@@ -16,10 +16,10 @@
 <p align="center">
   <samp>
     <!-- <a href="https://antfu.me">me</a> . -->
-    <a href="https://xiaoyao-ye.github.io/blog/">blog</a> .
+    <a href="https://xiaoyao-ye.github.io/blog/">Blog</a> .
+    <a href="https://marketplace.visualstudio.com/items?itemName=Ghosteye.vs-quick-log">Quick create log</a> .
+    <a href="https://github.com/xiaoyao-Ye/initapi">initapi</a> .
     <a href="https://xiaoyao-ye.github.io/Game-2048/">Game-2048</a> .
-    <!-- <a href="https://antfu.me/projects">projects</a> . -->
-    <!-- <a href="https://antfu.me/talks">talks</a> . -->
     <!-- <a href="https://antfu.me/podcasts">podcasts</a> . -->
     <!-- <a href="https://100.antfu.me">compform</a> . -->
     <!-- <a href="https://twitter.com/antfu7">tweets</a> . -->
