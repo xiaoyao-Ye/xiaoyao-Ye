@@ -30,6 +30,11 @@
   </samp>
 </p>
 
+
+
+![TOG](https://raw.githubusercontent.com/xiaoyao-Ye/xiaoyao-Ye/dist/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![TOG](https://raw.githubusercontent.com/xiaoyao-Ye/xiaoyao-Ye/dist/github-contribution-grid-snake.svg#gh-light-mode-only)
+
 <!--
 可你要明白啊我的朋友，
 我们不能用温柔去应对黑暗，
