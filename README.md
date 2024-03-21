@@ -60,8 +60,8 @@
 ## Contribution
 
 <p align="left">
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=xiaoyao-Ye&theme=merko#gh-dark-mode-only" alt="xiaoyao-Ye" />
-  <img height="160em" src="https://github-readme-stats-one-mu-82.vercel.app/api?username=xiaoyao-Ye&show_icons=true&hide_title=true&theme=merko#gh-dark-mode-only" />
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=xiaoyao-Ye&theme=merko#gh-dark-mode-only" alt="xiaoyao-Ye" />
+  <img height="150em" src="https://github-readme-stats-one-mu-82.vercel.app/api?username=xiaoyao-Ye&show_icons=true&hide_title=true&theme=merko#gh-dark-mode-only" />
 </p>
 
 <p align="left">
