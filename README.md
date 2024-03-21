@@ -27,7 +27,7 @@
 - **QQ**：1694081882
 - **E-mail**：Ghosteye@yeah.net
 - <details><summary><strong>WeChat：_Ghosteye</strong></summary>
-  二维码, 路虽远行将必至
+  <img height="150em" src="./assets/wechat.png" />
   </details>
 
 ## Language
