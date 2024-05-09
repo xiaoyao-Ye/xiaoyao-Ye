@@ -1,4 +1,5 @@
 # Hi there 👋
+
 <!-- **xiaoyao-Ye/xiaoyao-Ye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 <!-- I'm a front-end developer -->
 <!-- Here are some ideas to get you started: -->
@@ -47,6 +48,7 @@
 
 ![Vite](https://img.shields.io/badge/-Vite-646cff?logo=vite&logoColor=white)
 ![Webpack](https://img.shields.io/badge/-Webpack-1a6bac?logo=webpack)
+
 <!-- ![Rollup](https://img.shields.io/badge/-Rollup-ef3335?logo=rollup.js&logoColor=white) -->
 
 ![Vitest](https://img.shields.io/badge/-Vitest-red?logo=vitest&logoColor=white)
@@ -55,7 +57,6 @@
 ![Docker](https://img.shields.io/badge/-Docker-646cff?logo=docker&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-Flutter-blue?logo=flutter)
 ![Dart](https://img.shields.io/badge/-Dart-purple?logo=dart)
-
 
 ## Contribution
 
@@ -74,7 +75,8 @@
 ## Project
 
 > 目前正在使用 electron + nestjs 开发一款桌面 todo 应用.
-> 正在积极参与一个学习英语的开源项目 [earthworm](https://github.com/cuixueshe/earthworm) 
+
+<!-- > 正在积极参与一个学习英语的开源项目 [earthworm](https://github.com/cuixueshe/earthworm)  -->
 
 | 项目地址                                                       | 简述                                                                                                                  | 预览地址                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 | -------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -83,7 +85,7 @@
 | [wechat-ci](https://github.com/xiaoyao-Ye/wechat-ci)           | 这是一个可以在命令行上传/预览微信小程序的 npm 工具                                                                    | [![initapi](https://badgen.net/npm/v/wechat-ci)](https://www.npmjs.com/package/wechat-ci)                                                                                                                                                                                                                                                                                                                                                |
 | [create-xm](https://github.com/xiaoyao-Ye/create-xm)           | 快速创建项目的脚手架, 命令行输入 `npm create xm` 即可快速创建项目                                                     | [![initapi](https://badgen.net/npm/v/create-xm)](https://www.npmjs.com/package/create-xm)                                                                                                                                                                                                                                                                                                                                                |
 | [mini-react](https://github.com/xiaoyao-Ye/mini-react)         | 300 多行代码实现的 mini react                                                                                         |                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| [Game-2048](https://github.com/xiaoyao-Ye/Game-2048)           | 2048小游戏, `TS + Vue3 + unocss + vitest` 实践单元测试时的产物                                                        | [2048](https://xiaoyao-ye.github.io/Game-2048/)                                                                                                                                                                                                                                                                                                                                                                                          |
+| [Game-2048](https://github.com/xiaoyao-Ye/Game-2048)           | 2048 小游戏, `TS + Vue3 + unocss + vitest` 实践单元测试时的产物                                                       | [2048](https://xiaoyao-ye.github.io/Game-2048/)                                                                                                                                                                                                                                                                                                                                                                                          |
 | [ios17-clock](https://github.com/xiaoyao-Ye/ios17-clock)       | 模仿 iphone iOS17 系统新增的充电横向待机显示时钟, 配合 lively wallpaper 应用可设置为桌面背景.                         | [clock](https://xiaoyao-ye.github.io/ios17-clock/)                                                                                                                                                                                                                                                                                                                                                                                       |
 | [todo](https://github.com/xiaoyao-Ye/todo)                     | 使用 `electron + nestjs` 实现的桌面 todo list 应用, 清爽的页面, 目前还在持续开发.                                     | [package](https://github.com/xiaoyao-Ye/todo/releases)                                                                                                                                                                                                                                                                                                                                                                                   |
 | [Blog](https://github.com/xiaoyao-Ye/blog)                     | 我的博客, 记录一些学习过程. 总结一些最佳实践                                                                          | [blog](https://xiaoyao-ye.github.io/blog/)                                                                                                                                                                                                                                                                                                                                                                                               |
@@ -98,8 +100,8 @@
 <!-- [![profile](https://github-profile-trophy.vercel.app/?username=xiaoyao-Ye&theme=algolia&column=8)](https://github-profile-trophy.vercel.app/?username=xiaoyao-Ye&theme=algolia&column=8) -->
 
 <!-- 3D Chart -->
-<!-- 
-![3dChart](https://ssr-contributions-svg.vercel.app/_/xiaoyao-Ye?chart=3dbar&format=svg&weeks=40) 
+<!--
+![3dChart](https://ssr-contributions-svg.vercel.app/_/xiaoyao-Ye?chart=3dbar&format=svg&weeks=40)
 
 ![](https://activity-graph.herokuapp.com/graph?username=xiaoyao-Ye&theme=github)
 ![](https://visitor-badge.glitch.me/badge?page_id=xiaoyao-Ye.xiaoyao-Ye)
@@ -108,5 +110,3 @@
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xiaoyao-Ye&repo=ldapctl&show_owner=true&&theme=cobalt)](https://github.com/xiaoyao-Ye/wechat-ci) -->
 
 <!-- ![profile views](https://komarev.com/ghpvc/?username=xiaoyao-Ye&style=plastic) -->
-
- 
