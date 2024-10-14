@@ -62,7 +62,7 @@
 
 <p align="left">
   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=xiaoyao-Ye&theme=merko#gh-dark-mode-only" alt="xiaoyao-Ye" />
-  <img height="150em" src="https://github-readme-stats-one-mu-82.vercel.app/api?username=xiaoyao-Ye&show_icons=true&hide_title=true&theme=merko#gh-dark-mode-only" />
+  <img height="150em" src="https://github-readme-stats-bay-ten-72.vercel.app/api?username=xiaoyao-Ye&show_icons=true&hide_title=true&theme=merko#gh-dark-mode-only" />
 </p>
 
 <p align="left">
@@ -74,7 +74,7 @@
 
 ## Project
 
-> 目前正在使用 electron + nestjs 开发一款桌面 todo 应用.
+<!-- > 目前正在使用 electron + nestjs 开发一款桌面 todo 应用. -->
 
 <!-- > 正在积极参与一个学习英语的开源项目 [earthworm](https://github.com/cuixueshe/earthworm)  -->
 
